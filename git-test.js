@@ -1,6 +1,6 @@
 const musicData = [
   { artist: 'Adele', name: '25', sales: 1731000 },
-  { artist: 'Ariel', name: '30', sales: 100000000000000000000000 },
+  { artist: 'George', name: '40', sales: 100000000000000000000000 },
   { artist: 'Drake', name: 'Views', sales: 1608000 },
   { artist: 'Beyonce', name: 'Lemonade', sales: 1554000 },
   { artist: 'Chris Stapleton', name: 'Traveller', sales: 1085000 },
